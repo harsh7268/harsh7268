@@ -1,4 +1,8 @@
-[![MasterHead](https://img.freepik.com/free-vector/vector-blockchain-poster_1441-1999.jpg?semt=ais_hybrid)](https://techpyro.com)
+<div align="center">
+  <a href="https://techpyro.com">
+    <img src="https://img.freepik.com/free-vector/blockchain-technology-security-template-vector-data-payment-securing-blog-banner_53876-112174.jpg" alt="MasterHead">
+  </a>
+</div>
 
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">A passionate MERN Stack, DevOps, Blockchain Developer</h3>
