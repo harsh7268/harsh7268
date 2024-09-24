@@ -6,7 +6,8 @@
 
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h2 align="center">A passionate MERN Stack, DevOps, Blockchain Developer</h2>
-<h3 align="center">(+91) 7268911536,  harshpatel726891@gmail.com</h3>
+<h3 align="center">(+91) 7268911536</h3>
+<h3 align="center">harshpatel726891@gmail.com</h3>
 
 
 <img align="right" alt="coading" width="400" src="https://www.damcogroup.com/wp-content/uploads/2022/06/banner-right.png" />
