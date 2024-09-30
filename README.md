@@ -6,7 +6,12 @@
 
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h2 align="center">A passionate MERN Stack, DevOps, Blockchain Developer</h2>
-<h3 align="center">(+91) 7268911536</h3>
+<div align="center">
+  <h3 align="center" style={{margin-right:'20px'}}>
+    <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/whatsapp-2752026-2284843.png?f=webp&w=256" alt="WhatsApp Icon" width="30px" style="vertical-align: middle;" />
+    (+91) 7268911536
+  </h3>
+</div>
 <h3 align="center">harshpatel726891@gmail.com</h3>
 
 
