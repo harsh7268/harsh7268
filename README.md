@@ -8,13 +8,13 @@
 <h2 align="center">A passionate MERN Stack, DevOps, Blockchain Developer</h2>
 <div align="center">
   <h3 align="center">
-    <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/whatsapp-2752026-2284843.png?f=webp&w=256" alt="WhatsApp Icon" width="60px" style="vertical-align: middle;" />
+    <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/whatsapp-2752026-2284843.png?f=webp&w=256" alt="WhatsApp Icon" width="30px" style="vertical-align: middle;" />
     (+91) 7268911536
   </h3>
 </div>
 <div align="center">
   <h3 align="center">
-    <img src="https://logos-world.net/wp-content/uploads/2021/03/Telegram-Logo-2019-present.jpg" alt="WhatsApp Icon" width="30px" style="vertical-align: middle;" />
+    <img src="https://logos-world.net/wp-content/uploads/2021/03/Telegram-Logo-2019-present.jpg" alt="WhatsApp Icon" width="60px" style="vertical-align: middle;" />
     (+91) 7268911536
   </h3>
 </div>
