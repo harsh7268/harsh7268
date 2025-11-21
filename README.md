@@ -15,7 +15,7 @@
 <div align="center">
   <h3 align="center">
     <img src="https://logos-world.net/wp-content/uploads/2021/03/Telegram-Logo-2019-present.jpg" alt="WhatsApp Icon" width="60px" style="vertical-align: middle;" />
-    @ishu708089
+    username - ishu708089
   </h3>
 </div>
 <h3 align="center">harshpatel726891@gmail.com</h3>
