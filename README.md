@@ -11,7 +11,7 @@ u<div align="center">
 
 - 💬 Ask me about **MERN, React Native, Next.js, DevOps, Blockchain, Web3.js**
 
-- 📫 How to reach me **harshpatel726891@gmail.com**
+
 
 - ⚡ Fun fact **I Am Funny**
 
