@@ -4,7 +4,7 @@ u<div align="center">
   </a>
 </div>
 
-<h1 align="center">Hi 👋, I'm Harsh</h1>
+<h1 align="center">I am Harsh7268</h1>
 <h2 align="center">A passionate MERN Stack, DevOps, Blockchain, Data Scientist , Data Analytics</h2>
 <div align="center">
 
