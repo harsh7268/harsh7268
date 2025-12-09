@@ -25,16 +25,9 @@ u<div align="center">
 </div>
 <h3 align="center">harshpatel726891@gmail.com</h3>
 
-
 <img align="right" alt="coading" width="400" src="https://www.damcogroup.com/wp-content/uploads/2022/06/banner-right.png" />
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh7268&label=Profile%20views&color=0e75b6&style=flat" alt="harsh7268" /> </p>
-
-
-
-- 👨‍💻 All of my projects are available at [https://www.freelancer.com/u/Web1devloper](https://www.freelancer.com/u/Web1devloper)
 
 - 📫 How to reach me **harshpatel726891@gmail.com**
 
