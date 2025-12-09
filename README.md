@@ -11,13 +11,11 @@ u<div align="center">
 
 - 💬 Ask me about **MERN, React Native, Next.js, DevOps, Blockchain, Web3.js**
 
-<h3 align="center">
 
     <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/whatsapp-2752026-2284843.png?f=webp&w=256" alt="WhatsApp Icon" width="30px" style="vertical-align: middle;" />
 
     (+91) 7268911536
 
-  </h3>
 
 </div>
 
