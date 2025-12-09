@@ -11,7 +11,45 @@ u<div align="center">
 
 - 💬 Ask me about **MERN, React Native, Next.js, DevOps, Blockchain, Web3.js**
 
+<h3 align="center">
 
+    <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/whatsapp-2752026-2284843.png?f=webp&w=256" alt="WhatsApp Icon" width="30px" style="vertical-align: middle;" />
+
+    (+91) 7268911536
+
+  </h3>
+
+</div>
+
+<div align="center">
+
+  <h3 align="center">
+
+    <img src="https://logos-world.net/wp-content/uploads/2021/03/Telegram-Logo-2019-present.jpg" alt="WhatsApp Icon" width="60px" style="vertical-align: middle;" />
+
+    @ishu708089
+
+  </h3>
+
+</div>
+
+<h3 align="center">harshpatel726891@gmail.com</h3>
+
+
+
+
+
+<img align="right" alt="coading" width="400" src="https://www.damcogroup.com/wp-content/uploads/2022/06/banner-right.png" />
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh7268&label=Profile%20views&color=0e75b6&style=flat" alt="harsh7268" /> </p>
+
+
+
+- 👨‍💻 All of my projects are available at [https://www.freelancer.com/u/Web1devloper](https://www.freelancer.com/u/Web1devloper)
+
+- 📫 How to reach me **harshpatel726891@gmail.com**
 
 - ⚡ Fun fact **I Am Funny**
 
